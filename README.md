@@ -37,3 +37,6 @@ This project is licensed under the GNU General Public License - see the [LICENSE
 * Inspiration
 * water
 
+### Ubuntu install
+To install PyAudio you will need to install the portaudio19-dev package. You can do this by running the following command:
+`sudo apt install portaudio19-dev`
